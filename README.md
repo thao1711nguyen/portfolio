@@ -1,4 +1,5 @@
 # Portfolio
 
-This project serves as a practice Tailwind app and my portfolio as a self-taught Ruby Developer. 
-I used React, React Router and Tailwind for this app. 
+- This project serves as a practice Tailwind app and my portfolio as a self-taught Ruby Developer. 
+- I used React, React Router and Tailwind for this app. 
+- Check it out at: https://portfolio-nkbu.onrender.com/ 

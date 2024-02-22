@@ -51,7 +51,7 @@ const projects = [
         technology: "React, React Router Dom, Tailwind", 
         github: "https://github.com/thao1711nguyen/portfolio.git", 
         learn: "Tailwind to style react app", 
-        preview: ""
+        preview: "https://portfolio-nkbu.onrender.com/"
     }
 ]
 export default projects
