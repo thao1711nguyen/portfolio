@@ -68,34 +68,6 @@ export default function Skills() {
                 </div>
                 <div className={`flex justify-between items-center
                                 ${dark && "text-white"}`}>
-                    <div>HTML</div>
-                    <div className="flex gap-4 items-center">
-                        <div className={`w-40 h-2 
-                                        ${!dark && "bg-gray-400"}
-                                        ${dark && "bg-gray-200"}`}>
-                            <div className={`w-9/10  h-full
-                                            ${!dark && "bg-blue-900"}
-                                            ${dark && "bg-cyan-500"}`}></div>
-                        </div>
-                        <div className="text-sm">90%</div>
-                    </div>
-                </div>
-                <div className={`flex justify-between items-center
-                                ${dark && "text-white"}`}>
-                    <div>CSS</div>
-                    <div className="flex gap-4 items-center">
-                        <div className={`w-40 h-2 
-                                        ${!dark && "bg-gray-400"}
-                                        ${dark && "bg-gray-200"}`}>
-                            <div className={`w-4/5  h-full
-                                            ${!dark && "bg-blue-900"}
-                                            ${dark && "bg-cyan-500"}`}></div>
-                        </div>
-                        <div className="text-sm">80%</div>
-                    </div>
-                </div>
-                <div className={`flex justify-between items-center
-                                ${dark && "text-white"}`}>
                     <div>Git</div>
                     <div className="flex gap-4 items-center">
                         <div className={`w-40 h-2 
